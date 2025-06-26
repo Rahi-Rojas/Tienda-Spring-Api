@@ -11,4 +11,5 @@ import lombok.Setter;
 @NoArgsConstructor
 public class ColorRequest {
     private String nombre;
+    private String codigo;
 }
